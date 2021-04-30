@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=rykz-s&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rykz-s)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rykz-s&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=rykz-s&theme=highcontrast&show_icons=true&count_private=true)
