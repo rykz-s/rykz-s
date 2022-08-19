@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a mini project**
 
-- 🌱 I’m currently learning **Front End Development and Analyst**
+- 🌱 I’m currently learning **Software Development Engineering in Test**
 
 - 📫 Reach me at **ryukazuas@gmail.com**
 
