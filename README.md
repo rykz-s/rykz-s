@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I like to listening music.**
 
-- 🎓 I'm studying Informatics Engineering at **Sepuluh Nopember Institute of Technology**.
+- 🎓 Bachelor Degree of Information Engineering at **Sepuluh Nopember Institute of Technology**.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
